@@ -1,0 +1,5 @@
+./picamera/image0.jpg
+./picamera/image1.jpg
+./picamera/image2.jpg
+./picamera/image3.jpg
+./picamera/image4.jpg

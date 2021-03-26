@@ -1,0 +1,6 @@
+./dataset/Cloudy/Cloudy13.jpg
+./dataset/Cloudy/Cloudy14.jpg
+./dataset/Cloudy/Cloudy15.jpg
+./dataset/Clear/Clear60.jpg
+./dataset/Clear/Clear127.jpg
+./dataset/Clear/Clear128.jpg

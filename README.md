@@ -1,4 +1,4 @@
-# Bayesian Model for Probabilistic Weather and Air Quality Prediction
+# Bayesian Model for Probabilistic Air Quality Detection
 Using visibility as a proxy for weather and air quality monitoring. A Naive-Bayes and Rule-based approach.
 
 Many urban areas in Africa do not have sufficient monitoring programs to understand their air quality. This study uses visibility as a proxy for PM pollution and the weather to provide insight into air pollution using a microcontroller.
